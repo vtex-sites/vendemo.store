@@ -968,10 +968,10 @@
     p-limit "^3.1.0"
     sanitize-html "^2.11.0"
 
-"@faststore/cli@2.2.26":
-  version "2.2.26"
-  resolved "https://registry.yarnpkg.com/@faststore/cli/-/cli-2.2.26.tgz#200f5672d5482cd2107685b8aafe704f50125d04"
-  integrity sha512-spU5/vMzJx8URMHqp4vjr/KpwX1qXdGs2ebKyFmLvW2/1R2hl/4AQG513PXiP8m7IlhAwFyTrhGiI1YHWXuK+A==
+"@faststore/cli@2.2.52":
+  version "2.2.52"
+  resolved "https://registry.yarnpkg.com/@faststore/cli/-/cli-2.2.52.tgz#7440d1a72037bd62993f70069245e28f7b34a988"
+  integrity sha512-WFc5LyTZwqgADtoCUo05oHElvIc1bWKWfBH41fBb2w+2sPnsHtO6bKMecEf21ztwNjkO27VTS//HJYHZKyPmHw==
   dependencies:
     "@oclif/core" "^1.16.4"
     "@oclif/plugin-help" "^5"
